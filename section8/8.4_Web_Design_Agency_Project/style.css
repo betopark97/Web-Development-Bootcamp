@@ -18,7 +18,6 @@ body {
 
 .card {
   flex: 1;
-  display: inline-block;
   border: 15px solid #faf9f6;
 }
 
@@ -58,7 +57,7 @@ footer {
     text-align: center;
   }
   .logo {
-    width: 100px;
+    width: 130px;
   }
   .tile-image {
     height: 300px;
